@@ -1,5 +1,5 @@
 # 💫 About Me:
-Versatile and detail-oriented software developer that started coding in optional classes during middle school. Eager to contribute to team projects by offering robust coding skills, quick adaptability to new technologies, and a strong aptitude for problem-solving. Seeking a part-time position to grow professionally while adding value to your development team.
+Versatile and detail-oriented software developer that started coding in optional classes during middle school. Eager to contribute to team projects by offering robust coding skills, quick adaptability to new technologies, and a strong aptitude for problem-solving.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avi-rosenbaum-6b53aa225/) 
