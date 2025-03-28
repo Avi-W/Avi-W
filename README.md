@@ -1,5 +1,5 @@
 # 💫 About Me:
-Versatile and detail-oriented software developer that started coding in optional classes during middle school. Eager to contribute to team projects by offering robust coding skills, quick adaptability to new technologies, and a strong aptitude for problem-solving.
+Passionate and innovative software developer with a proven track record of technical growth, beginning my programming journey in middle school through optional coding classes. Combining strong technical skills with a collaborative mindset, I bring an ability to rapidly learn new technologies, develop efficient solutions, and contribute meaningfully to team objectives
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avi-rosenbaum-6b53aa225/) 
